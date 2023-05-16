@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="fn">Full Name:</string>
+    <string name="johnsmith">John Smith</string>
+    <string name="phone">Phone Number:</string>
+    <string name="pn">12345678</string>
+    <string name="size">Group Size:</string>
+    <string name="pax">Per Pax</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="smoke">Smoking Area</string>
+    <string name="sub">SUBMIT</string>
+    <string name="res">RESET</string>
+</resources>
